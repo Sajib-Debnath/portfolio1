@@ -1,5 +1,4 @@
 import React from "react";
-// import Sdata from "../../Sdata";
 import Sdata from '../../Sdata'
 import Card from "./Card";
 
